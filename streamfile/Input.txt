@@ -1,0 +1,1 @@
+Ternyata java bisa baca file juga!
